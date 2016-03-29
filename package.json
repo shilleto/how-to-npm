@@ -1,14 +1,23 @@
 {
   "name": "@shilleto/how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "NPM package",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "shilleto",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilleto/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shilleto/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/shilleto/how-to-npm#readme"
 }
